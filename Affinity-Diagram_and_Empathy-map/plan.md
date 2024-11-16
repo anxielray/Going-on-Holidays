@@ -187,6 +187,10 @@ Empathy maps help teams align their understanding of the user, guiding them in c
         Decisions about budgeting or splitting costs for various activities.
         Actions taken to adapt plans, make compromises, or solve logistical issues.
 
+    - **Holistic Experiences:** It provides a comprehensive view of how people engage with their environment and others during trips.
+    - **Combining Observation with Action:** By integrating both what is seen and actively done, this cluster highlights how group dynamics, individual participation, and real-time decision-making occur.
+    - **Pinpointing Insights for Change:** Understanding this cluster helps identify areas where better coordination, inclusivity, or decision-making structures can be introduced.
+
 ### 4. Hear
 
 - Input from others, including feedback, advice, or external factors that shaped your experience.
@@ -197,10 +201,10 @@ Empathy maps help teams align their understanding of the user, guiding them in c
 
     - This category relates to conversations, opinions, statements, or what people say during holiday planning and travel. It captures the spoken dynamics and communication patterns that occur among friends.
 
-    **Group chats and discussions to plan holidays** - This reflects what is heard when everyone shares ideas.
-    **Disagreements about budgets or destination choices** - These conflicts often involve hearing arguments or debates.
-    **Conversations around differing expectations, like luxury vs. budget stays** - Listening to discussions or debates about what is appropriate or affordable.
-    **Trying to mediate disagreements through conversation** - Hearing the effort to resolve conflicts verbally.
+    - **Group chats and discussions to plan holidays** - This reflects what is heard when everyone shares ideas.
+    - **Disagreements about budgets or destination choices** - These conflicts often involve hearing arguments or debates.
+    - **Conversations around differing expectations, like luxury vs. budget stays:** Listening to discussions or debates about what is appropriate or affordable.
+    - **Trying to mediate disagreements through conversation** - Hearing the effort to resolve conflicts verbally.
 
 
 
