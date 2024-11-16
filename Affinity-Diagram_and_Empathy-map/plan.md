@@ -157,11 +157,11 @@ Empathy maps help teams align their understanding of the user, guiding them in c
 
     - This section is about emotions and experiences during holiday planning and trips. It captures how people feel about the challenges, conflicts, and successes that occur within group travel.
 
--Frustration with budget differences and spending limits - Budgeting issues cause awkwardness and stress, impacting how participants feel.
-    Stress from poor coordination or unexpected disruptions - Unclear planning or mishaps generate feelings of tension or anxiety.
-    Feeling excluded when smaller cliques form or when dominated by certain people - Emotional responses to being left out.
-    The joy of achieving a balance of fun and unique activities - Positive emotions when everything works well together.
-    Friction due to differing daily routines - Emotional responses like frustration due to early risers vs. night owls.
+- **Frustration with budget differences and spending limits** - Budgeting issues cause awkwardness and stress, impacting how participants feel.
+    **Stress from poor coordination or unexpected disruptions** - Unclear planning or mishaps generate feelings of tension or anxiety.
+    **Feeling excluded when smaller cliques form or when dominated by certain people** - Emotional responses to being left out.
+    **The joy of achieving a balance of fun and unique activities** - Positive emotions when everything works well together.
+    **Friction due to differing daily routines** - Emotional responses like frustration due to early risers vs. night owls.
 
 ### 2. See
 
@@ -197,10 +197,10 @@ Empathy maps help teams align their understanding of the user, guiding them in c
 
     - This category relates to conversations, opinions, statements, or what people say during holiday planning and travel. It captures the spoken dynamics and communication patterns that occur among friends.
 
-    Group chats and discussions to plan holidays - This reflects what is heard when everyone shares ideas.
-    Disagreements about budgets or destination choices - These conflicts often involve hearing arguments or debates.
-    Conversations around differing expectations, like luxury vs. budget stays - Listening to discussions or debates about what is appropriate or affordable.
-    Trying to mediate disagreements through conversation - Hearing the effort to resolve conflicts verbally.
+    **Group chats and discussions to plan holidays** - This reflects what is heard when everyone shares ideas.
+    **Disagreements about budgets or destination choices** - These conflicts often involve hearing arguments or debates.
+    **Conversations around differing expectations, like luxury vs. budget stays** - Listening to discussions or debates about what is appropriate or affordable.
+    **Trying to mediate disagreements through conversation** - Hearing the effort to resolve conflicts verbally.
 
 
 
